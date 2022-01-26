@@ -9,7 +9,34 @@ Notice that, since low-risk requests are a small portion of the total requests, 
 Finally, to identify the best model among the different options, we'll use the Balanced Accuracy Score, the Precision and Recall Scores.
 
 ## Results
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
+
+To accomplish our duty, we created 6 different models with different results shown below: 
+
+### Undersampling
+
+![Undersampling](Undersampling.png)
+
+### Oversampling
+
+#### Naive Random
+
+![Naive](Naive.png)
+
+### SMOTE Oversampling
+
+![SMOTE](SMOTE.png)
+
+### Combination 
+
+![Combination](Combination.png)
+
+### Ensemble
+
+![Ensemble](Ensemble.png)
+
+### Adaboost
+
+![Adaboost](Adaboost.png)
 
 # Summary:
 There is a summary of the results
